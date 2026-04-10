@@ -7,7 +7,7 @@ Personal collection of LeetCode problem solutions — working through easy and m
 
 | Total | Easy | Medium | Hard | Languages |
 |-------|------|--------|------|-----------|
-| 19 | 15 | 4 | 0 | C, C++ |
+| 22 | 16 | 6 | 0 | C, C++ |
 
 ## Problems
 
@@ -27,11 +27,14 @@ Personal collection of LeetCode problem solutions — working through easy and m
 | 12 | Valid Palindrome | Easy | String, Two Pointers | C++ | [palindrome.cpp](./palindrome.cpp) |
 | 13 | Roman to Integer (if-else) | Easy | String | C++ | [romanToIntIf.cpp](./romanToIntIf.cpp) |
 | 14 | Roman to Integer (map) | Easy | String, Hash Map | C++ | [romanToIntMapp.cpp](./romanToIntMapp.cpp) |
-| 15 | Build Array from Stack Operations | Medium | Array, Stack | C++ | [buildanArrayWithStackOp.cpp](./buildanArrayWithStackOp.cpp) |
-| 16 | Best Time to Buy and Sell Stock | Medium | Array, Sliding Window | C++ | [bestTimetoBuy&SellStock.cpp](./bestTimetoBuy&SellStock.cpp) |
+| 15 | Build Array from Stack Operations | Medium | Array, Dynamic Programming | C++ | [buildanArrayWithStackOp.cpp](./buildanArrayWithStackOp.cpp) |
+| 16 | Best Time to Buy and Sell Stock | Easy | Array, Sliding Window | C++ | [bestTimetoBuy&SellStock.cpp](./bestTimetoBuy&SellStock.cpp) |
 | 17 | Maximum Subarray | Medium | Array, Dynamic Programming | C++ | [maxSubarray.cpp](./maxSubarray.cpp) |
 | 18 | Move Zeroes | Easy | Array, Two Pointers | C++ | [moveZeroes.cpp](./moveZeroes.cpp) |
 | 19 | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | C++ | [removeDuplicates.cpp](./removeDuplicates.cpp) |
+| 20 | Container With Most Water | Medium | Array, Two Pointers | C++ | [containerWithMostWater.cpp](./containerWithMostWater.cpp) |
+| 21 | Product of Array Except Self | Medium | Array, Prefix Sum | C++ | [productOfArrayExceptSelf.cpp](./productOfArrayExceptSelf.cpp) |
+| 22 | Two Sum II (Input Array Is Sorted) | Medium | Array, Two Pointers | C++ | [towSumSorted.cpp](./towSumSorted.cpp) |
 
 ---
-*Last updated: 9 Apr 2026*
+*Last updated: 11 Apr 2026*
