@@ -27,8 +27,8 @@ Personal collection of LeetCode problem solutions — working through easy and m
 | 12 | Valid Palindrome | Easy | String, Two Pointers | C++ | [palindrome.cpp](./palindrome.cpp) |
 | 13 | Roman to Integer (if-else) | Easy | String | C++ | [romanToIntIf.cpp](./romanToIntIf.cpp) |
 | 14 | Roman to Integer (map) | Easy | String, Hash Map | C++ | [romanToIntMapp.cpp](./romanToIntMapp.cpp) |
-| 15 | Build Array from Stack Operations | Medium | Array, Dynamic Programming | C++ | [buildanArrayWithStackOp.cpp](./buildanArrayWithStackOp.cpp) |
-| 16 | Best Time to Buy and Sell Stock | Easy | Array, Sliding Window | C++ | [bestTimetoBuy&SellStock.cpp](./bestTimetoBuy&SellStock.cpp) |
+| 15 | Build Array from Stack Operations | Medium | Array, Stack | C++ | [buildanArrayWithStackOp.cpp](./buildanArrayWithStackOp.cpp) |
+| 16 | Best Time to Buy and Sell Stock | Easy | Array, Dynamic Programming | C++ | [bestTimetoBuy&SellStock.cpp](./bestTimetoBuy&SellStock.cpp) |
 | 17 | Maximum Subarray | Medium | Array, Dynamic Programming | C++ | [maxSubarray.cpp](./maxSubarray.cpp) |
 | 18 | Move Zeroes | Easy | Array, Two Pointers | C++ | [moveZeroes.cpp](./moveZeroes.cpp) |
 | 19 | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | C++ | [removeDuplicates.cpp](./removeDuplicates.cpp) |
