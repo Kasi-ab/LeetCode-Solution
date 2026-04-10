@@ -7,7 +7,7 @@ Personal collection of LeetCode problem solutions — working through easy and m
 
 | Total | Easy | Medium | Hard | Languages |
 |-------|------|--------|------|-----------|
-| 22 | 16 | 6 | 0 | C, C++ |
+| 23 | 16 | 7 | 0 | C, C++ |
 
 ## Problems
 
@@ -35,6 +35,7 @@ Personal collection of LeetCode problem solutions — working through easy and m
 | 20 | Container With Most Water | Medium | Array, Two Pointers | C++ | [containerWithMostWater.cpp](./containerWithMostWater.cpp) |
 | 21 | Product of Array Except Self | Medium | Array, Prefix Sum | C++ | [productOfArrayExceptSelf.cpp](./productOfArrayExceptSelf.cpp) |
 | 22 | Two Sum II (Input Array Is Sorted) | Medium | Array, Two Pointers | C++ | [towSumSorted.cpp](./towSumSorted.cpp) |
+| 23 | 3Sum | Medium | Array,Two Pointers,Sorting | C++ | [3Sum.cpp](./3Sum.cpp) |
 
 ---
 *Last updated: 11 Apr 2026*
