@@ -14,7 +14,7 @@ Personal collection of LeetCode problem solutions — working through easy and m
 |---|------|---------|------------|--------|----------|------|
 | 1 | 1 | Two Sum | Easy | Array, Hash Map | C | [twoSum.c](./twoSum.c) |
 | 2 | 3 | Longest Substring Without Repeating Characters | Medium | Hash Table, String, Sliding Window | C++ | [lengthOfLongestSubstring.cpp](./lengthOfLongestSubstring.cpp) |
-| 3 | 9 | Palindrome Number | Easy | Math | C++ | [isPalindrome.cpp](./isPalindrome.cpp) |
+| 3 | 9 | Palindrome Number | Easy | Math | C++ | [palindrome.cpp](./palindrome.cpp) |
 | 4 | 11 | Container With Most Water | Medium | Array, Two Pointers | C++ | [containerWithMostWater.cpp](./containerWithMostWater.cpp) |
 | 5 | 13 | Roman to Integer | Easy | Hash Table, Math, String | C++ | [romanToIntIf.cpp](./romanToIntIf.cpp) / [romanToIntMapp.cpp](./romanToIntMapp.cpp) |
 | 6 | 14 | Longest Common Prefix | Easy | String, Trie | C++ | [longestCommonPrefix.cpp](./longestCommonPrefix.cpp) |
@@ -27,7 +27,7 @@ Personal collection of LeetCode problem solutions — working through easy and m
 | 13 | 74 | Search a 2D Matrix | Medium | Array, Binary Search, Matrix | C++ | [searchMatrix.cpp](./searchMatrix.cpp) |
 | 14 | 75 | Sort Colors | Medium | Array, Two Pointers, Sorting | C | [sortColors.c](./sortColors.c) |
 | 15 | 121 | Best Time to Buy and Sell Stock | Easy | Array, DP | C++ | [bestTimetoBuy&SellStock.cpp](./bestTimetoBuy&SellStock.cpp) |
-| 16 | 125 | Valid Palindrome | Easy | String, Two Pointers | C++ | [palindrome.cpp](./palindrome.cpp) |
+| 16 | 125 | Valid Palindrome | Easy | String, Two Pointers | C++ | [isPalindrome.cpp](./isPalindrome.cpp) |
 | 17 | 153 | Find Minimum in Rotated Sorted Array | Medium | Array, Binary Search | C++ | [findMin.cpp](./findMin.cpp) |
 | 18 | 155 | Min Stack | Medium | Stack, Design | C++ | [MinStack.cpp](./MinStack.cpp) |
 | 19 | 167 | Two Sum II - Input Array Is Sorted | Medium | Array, Two Pointers, Binary Search | C++ | [towSumSorted.cpp](./towSumSorted.cpp) |
