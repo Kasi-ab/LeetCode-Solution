@@ -5,8 +5,7 @@ public:
            int x=0;
            for(int i=0;i<n;i++){
               string s=operations[i];
-              int l=s.length()-1;
-              if(s[0]=='+'||s[l]=='+'){
+              if(s[1]=='+'){
                   x++;
               }else{
                   x--;
